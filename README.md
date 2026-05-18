@@ -51,7 +51,7 @@ I document my game development journey and share coding projects on YouTube.
 
 ## 📫 Connect With Me
 
-- 📧 Email: samalsubhrajit488@gmail.com
+- 📧 Email: profession.subhra@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/subhrajit-samal-53136b294
 - 🐦 X: https://x.com/samalsubhrajt1
 - 📸 Instagram: https://www.instagram.com/wao._subhra
