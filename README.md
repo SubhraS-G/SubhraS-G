@@ -9,6 +9,10 @@ A troll platformer game inspired by rage games.
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="assets/banner.png" width="100%" alt="Subhrajit Samal Banner">
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=SubhraS-G&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
