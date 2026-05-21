@@ -181,6 +181,5 @@ src="https://streak-stats.demolab.com?user=SubhraS-G&theme=tokyonight&hide_borde
 # ⭐ Final Note
 
 <p align="center">
-Hope is All We Can Hope For!
-              ~ Subhra
+"Hope is All We Can Hope For!" <br>&nbsp&nbsp ~ Subhra
 </p>
