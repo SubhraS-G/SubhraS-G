@@ -50,13 +50,13 @@
 
 ## 🎮 Featured Projects
 
-### 🔫 Top-Down Shooter
+### 🔫 [Top-Down Shooter](https://github.com/SubhraS-G/Top-Down-Shooter)
 A cyberpunk top-down shooter built from scratch in Unity 6 with C#.
 
-### 🏃 Glitch Runner
+### 🏃 [Glitch Runner](https://github.com/SubhraS-G/Glitch-Runner)
 A cyberpunk endless runner built with vanilla JavaScript and HTML5 Canvas.
 
-### 🎮 SKILL-ISSUE
+### 🎮 [SKILL-ISSUE](https://github.com/SubhraS-G/SKILL-ISSUE)
 A troll platformer inspired by rage games.
 
 ---
