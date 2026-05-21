@@ -181,5 +181,6 @@ src="https://streak-stats.demolab.com?user=SubhraS-G&theme=tokyonight&hide_borde
 # ⭐ Final Note
 
 <p align="center">
-Thanks for visiting my profile! 🚀
+Hope is All We Can Hope For!
+              ~ Subhra
 </p>
